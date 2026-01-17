@@ -57,7 +57,7 @@ crashlytics-build.properties
 Thumbs.db
 Desktop.ini
 
-# Large files exceeding GitHub's 100MB limit
-Assets/Fonts/font/ShanHaiJiGuMingKe(YaZhiBan)-newSDF.asset
-Assets/Fonts/font/ShanHaiJiGuMingKe(YaZhiBan)-moreSDF.asset
-Assets/Video/结尾配音.mp4
+# Large files are now managed by Git LFS (see .gitattributes)
+# Assets/Fonts/font/ShanHaiJiGuMingKe(YaZhiBan)-newSDF.asset
+# Assets/Fonts/font/ShanHaiJiGuMingKe(YaZhiBan)-moreSDF.asset
+# Assets/Video/结尾配音.mp4
