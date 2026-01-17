@@ -1,0 +1,4 @@
+repository "sysy@tj_3_7cc84c20_b0d6_433d_855e_a9b8fff46552@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

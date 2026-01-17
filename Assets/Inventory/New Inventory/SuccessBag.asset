@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 086943ce2afdb6a4aaac41733d471521, type: 3}
+  m_Name: SuccessBag
+  m_EditorClassIdentifier: 
+  itemList:
+  - {fileID: 11400000, guid: a54f10d4886cf7f4e8e106b238454982, type: 2}
+  - {fileID: 11400000, guid: 5cc9ec80aab8ed848abc666568a6f8f8, type: 2}
+  - {fileID: 11400000, guid: e7ae6d87523772f46a25d0cad96401bc, type: 2}
+  - {fileID: 11400000, guid: d539180465aa5e7408abf83f37e4876f, type: 2}
+  - {fileID: 11400000, guid: 88749095fa7ba024a83e4a010b97cd22, type: 2}
+  - {fileID: 11400000, guid: 0bbaa72cdf4213f45adc2616d8993f0e, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
